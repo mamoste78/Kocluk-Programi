@@ -1,0 +1,6 @@
+{
+  "name": "Sınav & Ders Takip",
+  "description": "Öğretmen ve öğrenci arasında sınav ve ders takibi, deneme analizi, ödev yönetimi ve mesajlaşma platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
